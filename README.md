@@ -1,6 +1,6 @@
 # Elizabeth Rogers
 
-![](images/ProfilePic.jpeg "Lizzie Rogers Photo"){width=150, height=150}
+![](images/Profile.png "Lizzie Rogers Photo"){width=150, height=150}
 
 ## About Me
 
