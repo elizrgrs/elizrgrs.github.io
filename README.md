@@ -29,9 +29,8 @@ I primarily listen to music on [Tidal](https://tidal.com/), [Nina Protocol](http
 
 I also enjoy fun streaming statistics. Let's be friends on [Last.fm](https://www.last.fm/user/altostratus_)
 
-### Other cool music things I find fun
-
-([Freakscene.diy](https://freakscene.diy/)) - Fun way to connect with your local music scene away from social media.
+### Community
+I love going to local shows! Bump to [Freakscene.diy](https://freakscene.diy/), a music and show positing board where you can connect with your local scene outside of social media :P
 
 ### Reading and Thinking and Pondering
 
