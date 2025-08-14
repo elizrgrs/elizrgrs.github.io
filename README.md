@@ -6,7 +6,7 @@
 
 My name is Elizabeth Rogers (she/her). 
 
-I am an senior at [Harvey Mudd College](https://www.hmc.edu) studying Mathematics.
+I am a senior at [Harvey Mudd College](https://www.hmc.edu) studying Mathematics.
 
 
 ## Scholarship 
