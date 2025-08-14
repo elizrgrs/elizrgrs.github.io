@@ -27,11 +27,11 @@ I co-host Wizards.fm on Monday nights 9-10pm on [KSPC 88.7 Claremont](https://ks
 #### Listening
 I primarily listen to music on [Tidal](https://tidal.com/), [Nina Protocol](https://www.ninaprotocol.com/), and my CD player bc spotify sux!!! Mandatory plug to [United Musicians and Allied Workers](https://weareumaw.org/).
 
-I also enjoy fun streaming statics. Let's be friends on [Last.fm](https://www.last.fm/user/altostratus_)
+I also enjoy fun streaming statistics. Let's be friends on [Last.fm](https://www.last.fm/user/altostratus_)
 
 ### Other cool music things I find fun
 
-[Freakscene.diy!](Freakscene.diy) - Fun way to connect with your local music scene away from social media.
+([Freakscene.diy](https://freakscene.diy/)) - Fun way to connect with your local music scene away from social media.
 
 ### Reading and Thinking and Pondering
 
