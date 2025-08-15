@@ -25,12 +25,12 @@ My presentation can be accessed here:
 I co-host Wizards.fm on Monday nights 9-10pm on [KSPC 88.7 Claremont](https://kspc.org/) with my fellow mage DJ NO. Listen in and say hi in the spinitron chat!
 
 #### Listening
-I primarily listen to music on [Tidal](https://tidal.com/), [Nina Protocol](https://www.ninaprotocol.com/), and my CD player bc spotify sux!!! Mandatory plug to [United Musicians and Allied Workers](https://weareumaw.org/).
+I primarily listen to music on [Tidal](https://tidal.com/), [Nina Protocol](https://www.ninaprotocol.com/), and my CD player bc spotify sux! Mandatory plug to [United Musicians and Allied Workers](https://weareumaw.org/).
 
 I also enjoy fun streaming statistics. Let's be friends on [Last.fm](https://www.last.fm/user/altostratus_)
 
-### Community
-I love going to local shows! Bump to [Freakscene.diy](https://freakscene.diy/), a music and show positing board where you can connect with your local scene outside of social media :P
+#### Community
+I love going to local shows! Bump to [Freakscene.diy](https://freakscene.diy/), a positing board for diy events where you can connect with your local scene outside of social media :P
 
 ### Reading and Thinking and Pondering
 
@@ -50,4 +50,4 @@ I was inspired to make this blog in the minimal web style after my professor [Lu
 
 ---
 
-Last updated August 14, 2025
+Last updated August 2025
