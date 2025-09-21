@@ -15,7 +15,7 @@ I am a senior at [Harvey Mudd College](https://www.hmc.edu) studying Mathematics
 
 I am interested in applying techniques from operations research and mathematical modeling to benefit the public good. 
 
-This summer I worked in the [Rigorous Systems Research Group](https://rsrg.cms.caltech.edu/) on a public health aware optimal power flow model under the guidance of Dr. Adam Wierman and Dr. Nicolas Christianson in the Caltech Computing and Mathematical Sciences department. This porject addresses the public health impact of power grid management and electricity generation, and a poster further detailing our work can be accessed here: 
+This summer I worked in the [Rigorous Systems Research Group](https://rsrg.cms.caltech.edu/) on a public health aware optimal power flow model under the guidance of Dr. Adam Wierman and Dr. Nicolas Christianson in the Caltech Computing and Mathematical Sciences department. This project addresses the public health impact of power grid management and electricity generation. A poster further detailing our work can be accessed here: 
 
 For my senior thesis at Harvey Mudd College, I am working on the [all-pairs vitality-maximization problem](https://link.springer.com/article/10.1007/s10479-024-06022-4), which was formulated by my advisor Dr. Susan E. Martonosi and Dr. Alice Paul in 2024. My thesis specific website can be accessed [here](https://sites.google.com/g.hmc.edu/rogers-senior-thesis?usp=sharing). I will be updating the webiste with information about the project as I continue to lean into the area! 
 
