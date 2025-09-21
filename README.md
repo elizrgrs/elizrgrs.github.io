@@ -13,16 +13,18 @@ I am a senior at [Harvey Mudd College](https://www.hmc.edu) studying Mathematics
 
 ## Scholarship 
 
-I am intersted in applying techniques from operations research to areas of publich health/power systems management. Currently I am working in the [Rigorous Systems Research Group](https://rsrg.cms.caltech.edu/) on a public health aware optimal power flow model under the guidance of Dr. Adam Wierman and Nicolas Christianson.
+I am interested in applying techniques from operations research and mathematical modeling to benefit the public good. 
 
-My presentation can be accessed here:
+This summer I worked in the [Rigorous Systems Research Group](https://rsrg.cms.caltech.edu/) on a public health aware optimal power flow model under the guidance of Dr. Adam Wierman and Dr. Nicolas Christianson in the Caltech Computing and Mathematical Sciences department. This porject addresses the public health impact of power grid management and electricity generation, and a poster further detailing our work can be accessed here: 
+
+For my senior thesis at Harvey Mudd College, I am working on the [all-pairs vitality-maximization problem](https://link.springer.com/article/10.1007/s10479-024-06022-4), which was formulated by my advisor Dr. Susan E. Martonosi and Dr. Alice Paul in 2024. My thesis specific website can be accessed [here](https://sites.google.com/g.hmc.edu/rogers-senior-thesis?usp=sharing). I will be updating the webiste with information about the project as I continue to lean into the area! 
 
 ## Personal Interests
 
 ### I love music in all forms listening, making, sharing, and experiencing! 
 
 #### Radio
-I co-host Wizards.fm on Monday nights 9-10pm on [KSPC 88.7 Claremont](https://kspc.org/) with my fellow mage DJ NO. Listen in and say hi in the spinitron chat!
+Find me on the airwaves on Saturday afternoons 4-5pm PST at [KSPC 88.7 Claremont](https://kspc.org/), where I co-host Wizards.fm with my fellow mage DJ NO. Listen in and say hi in the spinitron chat!
 
 #### Listening
 I primarily listen to music on [Tidal](https://tidal.com/), [Nina Protocol](https://www.ninaprotocol.com/), and my CD player bc spotify sux! Mandatory plug to [United Musicians and Allied Workers](https://weareumaw.org/).
@@ -50,4 +52,4 @@ I was inspired to make this blog in the minimal web style after my professor [Lu
 
 ---
 
-Last updated August 2025
+Last updated September 2025
