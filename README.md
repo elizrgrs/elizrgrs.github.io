@@ -13,11 +13,11 @@ I am a senior at [Harvey Mudd College](https://www.hmc.edu) studying Mathematics
 
 ## Scholarship 
 
-I am interested in applying techniques from operations research and mathematical modeling to benefit the public good. 
+I am generally intersted in operations research, accomidates my interests in applied math and computer science. Lately I have been interested in problems relating to the power sector.
 
 This summer I worked in the [Rigorous Systems Research Group](https://rsrg.cms.caltech.edu/) on a public health aware optimal power flow model under the guidance of Dr. Adam Wierman and Dr. Nicolas Christianson in the Caltech Computing and Mathematical Sciences department. This project addresses the public health impact of power grid management and electricity generation. A poster further detailing our work can be accessed here: 
 
-For my senior thesis at Harvey Mudd College, I am working on the [all-pairs vitality-maximization problem](https://link.springer.com/article/10.1007/s10479-024-06022-4), which was formulated by my advisor Dr. Susan E. Martonosi and Dr. Alice Paul in 2024. My thesis specific website can be accessed [here](https://sites.google.com/g.hmc.edu/rogers-senior-thesis?usp=sharing). I will be updating the webiste with information about the project as I continue to lean into the area! 
+For my senior thesis at Harvey Mudd College, I am working on the [all-pairs vitality-maximization problem (VIMAX)](https://link.springer.com/article/10.1007/s10479-024-06022-4), which was formulated by my advisor Dr. Susan E. Martonosi and Dr. Alice Paul. My thesis specific website can be accessed [here](https://sites.google.com/g.hmc.edu/rogers-senior-thesis?usp=sharing). VIMAX is an NP-Hard network interdiction problem which I am still learning about, but in general my thesis will look at why the Benders decomposition algorithm solves VIMAX on some types of graphs but not others. I will be updating my thesis website as I make more progress in the area! 
 
 ## Personal Interests
 
@@ -27,7 +27,7 @@ For my senior thesis at Harvey Mudd College, I am working on the [all-pairs vita
 Find me on the airwaves on Saturday afternoons 4-5pm PST at [KSPC 88.7 Claremont](https://kspc.org/), where I co-host Wizards.fm with my fellow mage DJ NO. Listen in and say hi in the spinitron chat!
 
 #### Listening
-I primarily listen to music on [Tidal](https://tidal.com/), [Nina Protocol](https://www.ninaprotocol.com/), and my CD player bc spotify sux! Mandatory plug to [United Musicians and Allied Workers](https://weareumaw.org/).
+I primarily listen to music on [Tidal](https://tidal.com/) and [Nina Protocol](https://www.ninaprotocol.com/), and collect CDs for at home listening! Mandatory plug to [United Musicians and Allied Workers](https://weareumaw.org/) who are doing great work.
 
 I also enjoy fun streaming statistics. Let's be friends on [Last.fm](https://www.last.fm/user/altostratus_)
 
