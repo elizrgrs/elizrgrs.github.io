@@ -6,9 +6,9 @@
 
 ## About Me
 
-My name is Elizabeth Rogers (she/her). 
+Hi! My name is Elizabeth Rogers (she/her). 
 
-I am a senior at [Harvey Mudd College](https://www.hmc.edu) studying Mathematics and concentrating in Gender and Women's studies. #WIBSTR
+I am a senior at [Harvey Mudd College](https://www.hmc.edu) studying Mathematics and concentrating in Gender and Women's studies.
 
 
 ## Scholarship 
@@ -17,7 +17,7 @@ I am generally intersted in operations research, accomidates my interests in app
 
 This summer I worked in the [Rigorous Systems Research Group](https://rsrg.cms.caltech.edu/) on a public health aware optimal power flow model under the guidance of Dr. Adam Wierman and Dr. Nicolas Christianson in the Caltech Computing and Mathematical Sciences department. This project addresses the public health impact of power grid management and electricity generation. A poster further detailing our work can be accessed here: 
 
-For my senior thesis at Harvey Mudd College, I am working on the [all-pairs vitality-maximization problem (VIMAX)](https://link.springer.com/article/10.1007/s10479-024-06022-4), which was formulated by my advisor Dr. Susan E. Martonosi and Dr. Alice Paul. My thesis specific website can be accessed [here](https://sites.google.com/g.hmc.edu/rogers-senior-thesis?usp=sharing). VIMAX is an NP-Hard network interdiction problem which I am still learning about, but in general my thesis will look at why the Benders decomposition algorithm solves VIMAX on some types of graphs but not others. I will be updating my thesis website as I make more progress in the area! 
+For my senior thesis at Harvey Mudd College, I am working on the [all-pairs vitality-maximization problem (VIMAX)](https://link.springer.com/article/10.1007/s10479-024-06022-4), which was formulated by my advisor Dr. Susan E. Martonosi and Dr. Alice Paul. My thesis specific website can be accessed [here](https://sites.google.com/g.hmc.edu/rogers-senior-thesis?usp=sharing). 
 
 ## Personal Interests
 
@@ -52,4 +52,4 @@ I was inspired to make this blog in the minimal web style after my professor [Lu
 
 ---
 
-Last updated September 2025
+Last updated November 2025
