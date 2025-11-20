@@ -13,11 +13,11 @@ I am a senior at [Harvey Mudd College](https://www.hmc.edu) studying Mathematics
 
 ## Scholarship 
 
-I am generally intersted in operations research, accomidates my interests in applied math and computer science. Lately I have been interested in problems relating to the power sector.
+I am generally intersted in operations research, which combines my interests in applied math and computer science. Lately I have been interested in problems relating to the power sector.
 
-This summer I worked in the [Rigorous Systems Research Group](https://rsrg.cms.caltech.edu/) on a public health aware optimal power flow model under the guidance of Dr. Adam Wierman and Dr. Nicolas Christianson in the Caltech Computing and Mathematical Sciences department. This project addresses the public health impact of power grid management and electricity generation. A poster further detailing our work can be accessed here: 
+This summer I worked in the [Rigorous Systems Research Group](https://rsrg.cms.caltech.edu/) on a public health aware optimal power flow model under the guidance of Dr. Adam Wierman and Dr. Nicolas Christianson in the Caltech Computing and Mathematical Sciences department. This project addresses the public health impact of power grid management and electricity generation. A poster further detailing our work can be accessed here: \[to be added\]
 
-For my senior thesis at Harvey Mudd College, I am working on the [all-pairs vitality-maximization problem (VIMAX)](https://link.springer.com/article/10.1007/s10479-024-06022-4), which was formulated by my advisor Dr. Susan E. Martonosi and Dr. Alice Paul. My thesis specific website can be accessed [here](https://sites.google.com/g.hmc.edu/rogers-senior-thesis?usp=sharing). 
+For my senior thesis at Harvey Mudd College, I am working with the [all-pairs vitality-maximization problem (VIMAX)](https://link.springer.com/article/10.1007/s10479-024-06022-4) problem, formulated by my advisor Dr. Susan E. Martonosi and Dr. Alice Paul. VIMAX provides a way to maximize the flow through a specific node in a given netowork. However, right now it is computationally difficult to solve for large systems (40+ node graphs). Thus, I am looking at speedups to our solver, which implements Benders Decomposition. My thesis specific website can be accessed [here](https://sites.google.com/g.hmc.edu/rogers-senior-thesis?usp=sharing). 
 
 ## Personal Interests
 
@@ -27,7 +27,7 @@ For my senior thesis at Harvey Mudd College, I am working on the [all-pairs vita
 Find me on the airwaves on Saturday afternoons 4-5pm PST at [KSPC 88.7 Claremont](https://kspc.org/), where I co-host Wizards.fm with my fellow mage DJ NO. Listen in and say hi in the spinitron chat!
 
 #### Listening
-I primarily listen to music on [Tidal](https://tidal.com/) and [Nina Protocol](https://www.ninaprotocol.com/), and collect CDs for at home listening! Mandatory plug to [United Musicians and Allied Workers](https://weareumaw.org/) who are doing great work.
+I primarily listen to music on [Tidal](https://tidal.com/), though I've recently been finding great stuff on [Nina Protocol](https://www.ninaprotocol.com/). Nina is a relatively new streaming service built on community values to support independent artists. In fact, artists on Nina receive 100% of any music sales. You can use my referal [link here](https://www.ninaprotocol.com/?invite=6anUAk9ecyMEVYR2u3xs9H77meL1Nebw1LLBkpZAhy3T&ref=6anUAk9ecyMEVYR2u3xs9H77meL1Nebw1LLBkpZAhy3T) to try it out for free! Full transparency that I do get a (very small) commission if you use my link - it ties back to Nina wanting to support users for sharing music of independent artists and helping Nina grow!
 
 I also enjoy fun streaming statistics. Let's be friends on [Last.fm](https://www.last.fm/user/altostratus_)
 
