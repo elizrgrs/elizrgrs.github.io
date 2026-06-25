@@ -6,38 +6,39 @@
 
 ## About Me
 
-Hi! My name is Elizabeth Rogers (she/her). 
+Hi! My name is Elizabeth Rogers (she/her). I am a mathematics graduate of Harvey Mudd College with significant experience in optimal power flow modeling and energy management. I'm passionate about applying mathematical optimization and operations research techniques to research areas benefitting the public good, particularly in the areas of power sector modeling and electricity dispatch scheduling.
 
-I am a senior at [Harvey Mudd College](https://www.hmc.edu) studying Mathematics and concentrating in Gender and Women's studies.
 
 
 ## Scholarship 
 
-I am generally intersted in operations research, which combines my interests in applied math and computer science. Lately I have been interested in problems relating to the power sector.
+I am generally intersted in operations research, which combines my interests in applied math and computer science. 
 
-This summer I worked in the [Rigorous Systems Research Group](https://rsrg.cms.caltech.edu/) on a public health aware optimal power flow model under the guidance of Dr. Adam Wierman and Dr. Nicolas Christianson in the Caltech Computing and Mathematical Sciences department. This project addresses the public health impact of power grid management and electricity generation. A poster further detailing our work from the SCCUR conference can be accessed here: [Health-Aware Optimal Power Flow: Accounting for Public Health in Energy Management](images/HealthAwareOPF.pdf).
+For the past year, I worked in the [Rigorous Systems Research Group](https://rsrg.cms.caltech.edu/) on a public health aware optimal power flow model under the guidance of Dr. Adam Wierman and Dr. Nicolas Christianson in the Caltech Computing and Mathematical Sciences department. This project addresses the public health impact of power grid management and electricity generation. A poster further detailing our work from the SCCUR conference can be accessed here: [Health-Aware Optimal Power Flow: Accounting for Public Health in Energy Management](images/HealthAwareOPF.pdf).
 
+For my senior thesis at Harvey Mudd College, I worked with the [all-pairs vitality-maximization problem (VIMAX)](https://link.springer.com/article/10.1007/s10479-024-06022-4), formulated by my advisor Dr. Susan E. Martonosi and Dr. Alice Paul. VIMAX provides a way to maximize the flow through a specific node in a given netowork. However, right now it is computationally difficult to solve for large systems (graphs of size 40+ nodes). Thus, I am looked at speedups to our solver, which implements Benders Decomposition. My thesis specific website can be accessed [here](https://sites.google.com/g.hmc.edu/erogers?usp=sharing). 
 
-For my senior thesis at Harvey Mudd College, I am working with the [all-pairs vitality-maximization problem (VIMAX)](https://link.springer.com/article/10.1007/s10479-024-06022-4), formulated by my advisor Dr. Susan E. Martonosi and Dr. Alice Paul. VIMAX provides a way to maximize the flow through a specific node in a given netowork. However, right now it is computationally difficult to solve for large systems (graphs of size 40+ nodes). Thus, I am looking at speedups to our solver, which implements Benders Decomposition. My thesis specific website can be accessed [here](https://sites.google.com/g.hmc.edu/rogers-senior-thesis?usp=sharing). 
+I enjoyed many research projects over my time at Harvey Mudd. Across roles in algorithm development, to computational physics, to experimetnal quantum information, I gained skills in experimental design and project management, computational analysis, and collaboration. [My CV can be accessed here](images/RogersCV.pdf)
+
 
 ## Personal Interests
+
+### Reading and Thinking and Pondering
+
+My degree's concentration in gender and womens studies means I am always thinking about how the music and media we consume relate to capitalism and patriarchy. Samples of [my writings on queerness and music can be accessed here](https://drive.google.com/drive/folders/1TUsbb7SxP2glqO3Mk5eQ0snRlRBRZVWE?usp=sharing). I also am on goodreads [GoodReads](https://www.goodreads.com/altostratus), where I leave reviews on whatever I'm reading at the moment.
 
 ### I love music in all forms listening, making, sharing, and experiencing! 
 
 #### Radio
-Find me on the airwaves Saturday afternoons 4-5pm PST at [KSPC 88.7 Claremont](https://kspc.org/), where I co-host Wizards.fm with my fellow mage DJ NO. Listen in and say hi in the spinitron chat!
+For the past few years I've co-hosted Wizards.fm with my fellow mage DJ NO. Go listen to our show Saturday afternoons 4-5pm PST at [KSPC 88.7 Claremont](https://kspc.org/)! Now that we've graduated from spellcrafting school, it will continue to play through August before disapearing from the airwaves... 
 
 #### Listening
-I primarily listen to music on [Tidal](https://tidal.com/), though I've recently been finding great stuff on [Nina Protocol](https://www.ninaprotocol.com/). Nina is a relatively new streaming service built on community values to support independent artists. In fact, artists on Nina receive 100% of any music sales! You can use my referal [link here](https://www.ninaprotocol.com/?invite=6anUAk9ecyMEVYR2u3xs9H77meL1Nebw1LLBkpZAhy3T&ref=6anUAk9ecyMEVYR2u3xs9H77meL1Nebw1LLBkpZAhy3T) to try it out!
+I primarily listen to music on [Tidal](https://tidal.com/). In the past I've found great stuff on [Nina Protocol](https://www.ninaprotocol.com/), which is now in the process of being shutdown (rip). However, the Nina editorials are still great places to find new music and I highly reccomend checking it out.
 
 I also enjoy fun streaming statistics. Let's be friends on [Last.fm](https://www.last.fm/user/altostratus_)
 
 #### Community
 I love going to local shows! Bump to [Freakscene.diy](https://freakscene.diy/), a positing board for diy events where you can connect with your local scene outside of social media :P
-
-### Reading and Thinking and Pondering
-
-I love to read! Currently I am catching up on readings from my queer affect theory class, but I also enjoy sci-fi, the ocasional memoir, queer romcoms, and a good contemp lit book that makes me think about life. Let's be friends on [GoodReads](https://www.goodreads.com/altostratus) :)
 
 
 ## Contact Information
@@ -45,7 +46,7 @@ I love to read! Currently I am catching up on readings from my queer affect theo
 ### Email 
 
 elrogers@g.hmc.edu
-
+elizabethrogers322@gmail.com
 
 ### This Blog
 
@@ -53,4 +54,4 @@ I was inspired to make this blog in the minimal web style after my professor [Lu
 
 ---
 
-Last updated November 2025
+Last updated June 2026
