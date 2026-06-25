@@ -33,7 +33,7 @@ My degree's concentration in gender and women's studies means I am always thinki
 For the past few years I've co-hosted Wizards.fm with my fellow mage DJ NO. Go listen to our show Saturday afternoons 4-5pm PST at [KSPC 88.7 Claremont](https://kspc.org/), where you can find everything from experimental electronic to riot grrrl punk. Now that we've graduated from spellcrafting school, it will continue to play through August before disapearing from the airwaves... 
 
 #### Musicking
-I play guitar (both electric and acoustic), piano, and occasionally the drums. In the past I've enjoyed playing in local concerts with friends, with one highlight being our Chappell Roan cover band. Once in a blue moon I break out the deck and DJ. I'm always looking for more friends to jam with so if any of the following is your vibe, reach out! 
+I play guitar (both electric and acoustic), piano, and occasionally the drums. In the past I've enjoyed playing in local concerts with friends, with one highlight being our Chappell Roan cover band. Once in a blue moon I break out the deck and DJ. I'm always looking for more friends to jam with so if any of this is your vibe, reach out! 
 
 #### Listening
 Besides listening to the radio and my CD collection, I listen to music on [Tidal](https://tidal.com/). In the past I've found great stuff on [Nina Protocol](https://www.ninaprotocol.com/), which is now in the process of being shutdown (rip). However, the Nina editorials are still great places to find new music and I highly reccomend checking it out. I also love the curation by [pretty but wicked](https://prettybutwicked.com/) :)
