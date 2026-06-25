@@ -12,7 +12,7 @@ Hi! My name is Elizabeth Rogers (she/her). I am a mathematics graduate of Harvey
 
 ## Scholarship 
 
-I am generally intersted in operations research, which combines my interests in applied math and computer science. 
+I am interested in operations research, which combines my interests in applied math and computer science. 
 
 For the past year, I worked in the [Rigorous Systems Research Group](https://rsrg.cms.caltech.edu/) on a public health aware optimal power flow model under the guidance of Dr. Adam Wierman and Dr. Nicolas Christianson in the Caltech Computing and Mathematical Sciences department. This project addresses the public health impact of power grid management and electricity generation. A poster further detailing our work from the SCCUR conference can be accessed here: [Health-Aware Optimal Power Flow: Accounting for Public Health in Energy Management](images/HealthAwareOPF.pdf).
 
@@ -33,7 +33,7 @@ My degree's concentration in gender and women's studies means I am always thinki
 For the past few years I've co-hosted Wizards.fm with my fellow mage DJ NO. Go listen to our show Saturday afternoons 4-5pm PST at [KSPC 88.7 Claremont](https://kspc.org/)! Now that we've graduated from spellcrafting school, it will continue to play through August before disapearing from the airwaves... 
 
 #### Listening
-I primarily listen to music on [Tidal](https://tidal.com/). In the past I've found great stuff on [Nina Protocol](https://www.ninaprotocol.com/), which is now in the process of being shutdown (rip). However, the Nina editorials are still great places to find new music and I highly reccomend checking it out.
+Besides listening to the radio and my CD collection, I listen to music on [Tidal](https://tidal.com/). In the past I've found great stuff on [Nina Protocol](https://www.ninaprotocol.com/), which is now in the process of being shutdown (rip). However, the Nina editorials are still great places to find new music and I highly reccomend checking it out.
 
 I also enjoy fun streaming statistics. Let's be friends on [Last.fm](https://www.last.fm/user/altostratus_)
 
