@@ -25,7 +25,7 @@ I enjoyed many research projects over my time at Harvey Mudd. Across roles in al
 
 ### Reading and Thinking and Pondering
 
-My degree's concentration in gender and womens studies means I am always thinking about how the music and media we consume relate to capitalism and patriarchy. Samples of [my writings on queerness and music can be accessed here](https://drive.google.com/drive/folders/1TUsbb7SxP2glqO3Mk5eQ0snRlRBRZVWE?usp=sharing). I also am on goodreads [GoodReads](https://www.goodreads.com/altostratus), where I leave reviews on whatever I'm reading at the moment.
+My degree's concentration in gender and womens studies means I am always thinking about how the music and media we consume relate to capitalism and patriarchy. Samples of [my writings on queerness and music can be accessed here](https://drive.google.com/drive/folders/1TUsbb7SxP2glqO3Mk5eQ0snRlRBRZVWE?usp=sharing). I also am on [GoodReads](https://www.goodreads.com/altostratus), where I leave reviews on whatever I'm reading at the moment.
 
 ### I love music in all forms listening, making, sharing, and experiencing! 
 
