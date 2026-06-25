@@ -18,7 +18,7 @@ For the past year, I worked in the [Rigorous Systems Research Group](https://rsr
 
 For my senior thesis at Harvey Mudd College, I worked with the [all-pairs vitality-maximization problem (VIMAX)](https://link.springer.com/article/10.1007/s10479-024-06022-4), formulated by my advisor Dr. Susan E. Martonosi and Dr. Alice Paul. VIMAX provides a way to maximize the flow through a specific node in a given netowork. However, right now it is computationally difficult to solve for large systems (graphs of size 40+ nodes). Thus, I am looked at speedups to our solver, which implements Benders Decomposition. My thesis specific website can be accessed [here](https://sites.google.com/g.hmc.edu/erogers?usp=sharing). 
 
-I enjoyed many research projects over my time at Harvey Mudd. Across roles in algorithm development, to computational physics, to experimetnal quantum information, I gained skills in experimental design and project management, computational analysis, and collaboration. [My CV can be accessed here](images/RogersCV.pdf)
+I enjoyed many research projects over my time at Harvey Mudd. Across roles in algorithm development, to computational physics, to experimetnal quantum information, I gained skills in experimental design and project management, computational analysis, and collaboration. [My CV can be accessed here](images/Rogers CV 2026.pdf)
 
 
 ## Personal Interests
