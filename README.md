@@ -18,14 +18,14 @@ For the past year, I worked in the [Rigorous Systems Research Group](https://rsr
 
 For my senior thesis at Harvey Mudd College, I worked with the [all-pairs vitality-maximization problem (VIMAX)](https://link.springer.com/article/10.1007/s10479-024-06022-4), formulated by my advisor Dr. Susan E. Martonosi and Dr. Alice Paul. VIMAX provides a way to maximize the flow through a specific node in a given netowork. However, right now it is computationally difficult to solve for large systems (graphs of size 40+ nodes). Thus, I am looked at speedups to our solver, which implements Benders Decomposition. My thesis specific website can be accessed [here](https://sites.google.com/g.hmc.edu/erogers?usp=sharing). 
 
-I enjoyed many research projects over my time at Harvey Mudd. Across roles in algorithm development, to computational physics, to experimetnal quantum information, I gained skills in experimental design and project management, computational analysis, and collaboration. [My CV can be accessed here](images/RogersCV2026.pdf)
+I enjoyed many research projects over my time at Harvey Mudd. Across roles in algorithm development, computational physics, and experimetnal quantum information, I gained skills in experimental design and project management, computational analysis, and collaboration. [My CV can be accessed here](images/RogersCV2026.pdf)
 
 
 ## Personal Interests
 
 ### Reading and Thinking and Pondering
 
-My degree's concentration in gender and womens studies means I am always thinking about how the music and media we consume relate to capitalism and patriarchy. Samples of [my writings on queerness and music can be accessed here](https://drive.google.com/drive/folders/1TUsbb7SxP2glqO3Mk5eQ0snRlRBRZVWE?usp=sharing). I also am on [GoodReads](https://www.goodreads.com/altostratus), where I leave reviews on whatever I'm reading at the moment.
+My degree's concentration in gender and women's studies means I am always thinking about how the music and media we consume relate to capitalism and patriarchy. Samples of [my writings on queerness and music can be accessed here](https://drive.google.com/drive/folders/1TUsbb7SxP2glqO3Mk5eQ0snRlRBRZVWE?usp=sharing). I also am on [GoodReads](https://www.goodreads.com/altostratus), where I leave reviews on whatever I'm reading at the moment.
 
 ### I love music in all forms listening, making, sharing, and experiencing! 
 
