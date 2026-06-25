@@ -30,15 +30,18 @@ My degree's concentration in gender and women's studies means I am always thinki
 ### I love music in all forms listening, making, sharing, and experiencing! 
 
 #### Radio
-For the past few years I've co-hosted Wizards.fm with my fellow mage DJ NO. Go listen to our show Saturday afternoons 4-5pm PST at [KSPC 88.7 Claremont](https://kspc.org/)! Now that we've graduated from spellcrafting school, it will continue to play through August before disapearing from the airwaves... 
+For the past few years I've co-hosted Wizards.fm with my fellow mage DJ NO. Go listen to our show Saturday afternoons 4-5pm PST at [KSPC 88.7 Claremont](https://kspc.org/), where you can find everything from experimental electronic to riot grrrl punk. Now that we've graduated from spellcrafting school, it will continue to play through August before disapearing from the airwaves... 
+
+#### Musicking
+I play guitar (both electric and acoustic), piano, and occasionally the drums. In the past I've enjoyed playing in local concerts with friends, with one highlight being our Chappell Roan cover band. Once in a blue moon I break out the deck and DJ. I'm always looking for more friends to jam with so if any of the following is your vibe, reach out! 
 
 #### Listening
-Besides listening to the radio and my CD collection, I listen to music on [Tidal](https://tidal.com/). In the past I've found great stuff on [Nina Protocol](https://www.ninaprotocol.com/), which is now in the process of being shutdown (rip). However, the Nina editorials are still great places to find new music and I highly reccomend checking it out.
+Besides listening to the radio and my CD collection, I listen to music on [Tidal](https://tidal.com/). In the past I've found great stuff on [Nina Protocol](https://www.ninaprotocol.com/), which is now in the process of being shutdown (rip). However, the Nina editorials are still great places to find new music and I highly reccomend checking it out. I also love the curation by [pretty but wicked](https://prettybutwicked.com/) :)
 
-I also enjoy fun streaming statistics. Let's be friends on [Last.fm](https://www.last.fm/user/altostratus_)
+I enjoy fun streaming statistics. Let's be friends on [Last.fm](https://www.last.fm/user/altostratus_)
 
 #### Community
-I love going to local shows! Bump to [Freakscene.diy](https://freakscene.diy/), a positing board for diy events where you can connect with your local scene outside of social media
+I love going to local shows! Bump to [Freakscene.diy](https://freakscene.diy/), a positing board for diy events where you can connect with your local scene outside of social media. If you're in the Sacramento area, check out the [Red Museum](https://theredmuseum.com/), [Fluxx](https://fluxx.neocities.org/), and  Lee Osh of [Sacramento Punk Shows](https://www.sacramentopunkshows.com/), all of whom are doing great stuff for the community here.
 
 
 ## Contact Information
@@ -46,6 +49,7 @@ I love going to local shows! Bump to [Freakscene.diy](https://freakscene.diy/), 
 ### Email 
 
 elrogers@g.hmc.edu
+
 elizabethrogers322@gmail.com
 
 ### This Blog
