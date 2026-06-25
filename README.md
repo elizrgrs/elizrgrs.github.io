@@ -38,7 +38,7 @@ I primarily listen to music on [Tidal](https://tidal.com/). In the past I've fou
 I also enjoy fun streaming statistics. Let's be friends on [Last.fm](https://www.last.fm/user/altostratus_)
 
 #### Community
-I love going to local shows! Bump to [Freakscene.diy](https://freakscene.diy/), a positing board for diy events where you can connect with your local scene outside of social media :P
+I love going to local shows! Bump to [Freakscene.diy](https://freakscene.diy/), a positing board for diy events where you can connect with your local scene outside of social media
 
 
 ## Contact Information
