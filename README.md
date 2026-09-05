@@ -1,20 +1,19 @@
 # Elizabeth Rogers
 
 <p>
-    <img src="images/Profile.png" alt="Description" width="250">
+    <img src="images/mtrainierpfp.png" alt="Description" width="250">
 </p>
 
 ## About Me
 
-Hi! My name is Elizabeth Rogers (she/her). I am a mathematics graduate of Harvey Mudd College with significant experience in optimal power flow modeling and energy management. I'm passionate about applying mathematical optimization and operations research techniques to research areas benefitting the public good, particularly in the areas of power sector modeling and electricity dispatch scheduling.
-
+Hello! My name is Elizabeth Rogers (she/her). I am currently a technical solutions engineer in training at Epic Systems in Verona, WI. Before that, I graduated with a degree in mathematics from Harvey Mudd College, with a concentration in Gender and Women's Studies. I'm passionate about applying mathematical optimization and operations research techniques to research areas benefitting the public good, which I do with Epic! Outside of work I am a programming volunteer at KUTZ.FM, the freeform radio station in my hometown of Sacramento, and a live-coding visual artist. Check out some of my work below!
 
 
 ## Scholarship 
 
 I am interested in operations research, which combines my interests in applied math and computer science. 
 
-For the past year, I worked in the [Rigorous Systems Research Group](https://rsrg.cms.caltech.edu/) on a public health aware optimal power flow model under the guidance of Dr. Adam Wierman and Dr. Nicolas Christianson in the Caltech Computing and Mathematical Sciences department. This project addresses the public health impact of power grid management and electricity generation. A poster further detailing our work from the SCCUR conference can be accessed here: [Health-Aware Optimal Power Flow: Accounting for Public Health in Energy Management](images/HealthAwareOPF.pdf).
+As a Caltech WAVE Fellow in the [Rigorous Systems Research Group](https://rsrg.cms.caltech.edu/), I worked on a public health aware optimal power flow model under the guidance of Dr. Adam Wierman and Dr. Nicolas Christianson. This project addresses the public health impact of power grid management and electricity generation. A poster further detailing our work from the SCCUR conference can be accessed here: [Health-Aware Optimal Power Flow: Accounting for Public Health in Energy Management](images/HealthAwareOPF.pdf).
 
 For my senior thesis at Harvey Mudd College, I worked with the [all-pairs vitality-maximization problem (VIMAX)](https://link.springer.com/article/10.1007/s10479-024-06022-4), formulated by my advisor Dr. Susan E. Martonosi and Dr. Alice Paul. VIMAX provides a way to maximize the flow through a specific node in a given netowork. However, right now it is computationally difficult to solve for large systems (graphs of size 40+ nodes). Thus, I looked at speedups to our solver, which implements Benders Decomposition. My thesis specific website can be accessed [here](https://sites.google.com/g.hmc.edu/erogers?usp=sharing). 
 
@@ -30,7 +29,9 @@ My degree's concentration in gender and women's studies means I am always thinki
 ### I love music in all forms listening, making, sharing, and experiencing! 
 
 #### Radio
-For the past few years I've co-hosted Wizards.fm with my fellow mage DJ NO. Go listen to our show Saturday afternoons 4-5pm PST at [KSPC 88.7 Claremont](https://kspc.org/), where you can find everything from experimental electronic to riot grrrl punk. Now that we've graduated from spellcrafting school, it will continue to play through August before disapearing from the airwaves... 
+I am a programming volunteer at [KUTZ.FM](https://www.kutzfm.org/), the local freeform radio station of Sacramento championing truly indie music. I index all music sent to the station and send out descriptions and recommendations to our DJ's! <b>Local bands and other indie artists: send your music in for programming at [programming@kutzfm.org](mailto:programming@kutzfm.org)!!.</b> KUTZ is all volunteer run and community funded. [Become a donor today!](https://www.kutzfm.org/fundraiser/)
+
+For the past four years I co-hosted Wizards.fm with my fellow mage DJ NO at [KSPC 88.7 Claremont](https://kspc.org/). Now that we've graduated from spellcrafting school, you can find Wizards.fm once in a blue moon as an archival show... 
 
 #### Musicking
 I play guitar (both electric and acoustic), piano, and occasionally the drums. In the past I've enjoyed playing in local concerts with friends, with one highlight being our Chappell Roan cover band. Once in a blue moon I break out the deck and DJ. I'm always looking for more friends to jam with so if any of this is your vibe, reach out! 
@@ -47,9 +48,6 @@ I love going to local shows! Bump to [Freakscene.diy](https://freakscene.diy/), 
 ## Contact Information
 
 ### Email 
-
-elrogers@g.hmc.edu
-
 elizabethrogers322@gmail.com
 
 ### This Blog
@@ -58,4 +56,4 @@ I was inspired to make this blog in the minimal web style after my professor [Lu
 
 ---
 
-Last updated June 2026
+Last updated September 2026
