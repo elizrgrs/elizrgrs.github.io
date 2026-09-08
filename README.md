@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello! My name is Elizabeth Rogers (she/her). I am currently a technical solutions engineer in training at Epic Systems in Verona, WI. Before that, I graduated with a degree in mathematics from Harvey Mudd College, with a concentration in Gender and Women's Studies. I'm passionate about applying mathematical optimization and operations research techniques to research areas benefitting the public good, which I do with Epic! Outside of work I am a programming volunteer at KUTZ.FM, the freeform radio station in my hometown of Sacramento, and a live-coding visual artist. Check out some of my work below!
+Hello! My name is Elizabeth Rogers (she/her). I am currently about to move to Madison, WI to become a technical solutions engineer at Epic Systems. Before that, I graduated with a degree in mathematics from Harvey Mudd College, with a concentration in Gender and Women's Studies. I'm passionate about applying mathematical optimization and operations research techniques to research areas benefitting the public good, which I do with Epic! Outside of work I am a programming volunteer at KUTZ.FM, the freeform radio station in my hometown of Sacramento, and a live-coding visual artist. Check out some of my work below!
 
 
 ## Scholarship 
@@ -49,6 +49,8 @@ I love going to local shows! Bump to [Freakscene.diy](https://freakscene.diy/), 
 
 ### Email 
 elizabethrogers322@gmail.com
+
+lizzie@kutzfm.org
 
 ### This Blog
 
